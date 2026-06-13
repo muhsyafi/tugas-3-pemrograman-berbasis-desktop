@@ -1,0 +1,6 @@
+# ============================================
+# File Data Menu - Restoran Nusantara Rasa
+# Format: TIPE|NAMA|HARGA|KETERANGAN
+# ============================================
+MAKANAN|Nasi Goreng|10000.0|Makanan Berat
+MINUMAN|Es Teh|4000.0|Es
